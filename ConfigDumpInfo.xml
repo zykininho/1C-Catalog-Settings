@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="Catalog.НастройкиДополнительные" id="cb5bcc26-33e2-41c4-9165-f970f776d23e" configVersion="5101855909a774709074ee9d709163d37970c069">
+			<Metadata name="Catalog.НастройкиДополнительные.Attribute.Идентификатор" id="0c9fd271-4993-45bb-9016-5254ffdf31a3"/>
+			<Metadata name="Catalog.НастройкиДополнительные.Attribute.Значение" id="12ecb805-e68f-4570-8e22-574c5c3c8564"/>
+		</Metadata>
+		<Metadata name="Catalog.НастройкиДополнительные.Form.ФормаЭлемента" id="54a19e43-e9ab-40db-b435-e821b34fa9a9" configVersion="08d7e60f183751e68bbe2d36abc3fe5e9a34ec07"/>
+		<Metadata name="Catalog.НастройкиДополнительные.Form.ФормаЭлемента.Form" id="54a19e43-e9ab-40db-b435-e821b34fa9a9.0" configVersion="35f8abfafbfae0e184e0e2a8aa4fbc6ee0e06253"/>
+		<Metadata name="Catalog.НастройкиДополнительные.ManagerModule" id="cb5bcc26-33e2-41c4-9165-f970f776d23e.3" configVersion="27db468d76a8914539ad4a0bdf4af4a36ca896fd"/>
+		<Metadata name="Catalog.НастройкиДополнительные.ObjectModule" id="cb5bcc26-33e2-41c4-9165-f970f776d23e.0" configVersion="0bf108b0a04c66b8e46f3e5a9e89ac8d7d4136fe"/>
+		<Metadata name="Configuration.СправочникНастроек" id="53dc5df0-c358-4c2d-9e96-19c91fb4e66d" configVersion="82cf0d576f61d095a6bfb0088ec7ca902b9125be"/>
+		<Metadata name="Language.Русский" id="1358ba0d-74bc-476b-a944-7468d313407d" configVersion="90428caa3c06120fe717db0164e9528deb31e7ae"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
